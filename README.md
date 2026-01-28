@@ -20,3 +20,5 @@ npm run dev
 
 Made with ❤️ by Nitesh
 
+![Tic Tac Toe Output](./screenshot.png)
+
