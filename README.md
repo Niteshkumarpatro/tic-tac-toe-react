@@ -20,5 +20,5 @@ npm run dev
 
 Made with ❤️ by Nitesh
 
-![Tic Tac Toe Output](./Screenshot.game.png)
+![Tic Tac Toe Output](./Screenshot/Game.png)
 
