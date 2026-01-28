@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="preview.png" alt="Project Preview" width="600">
+</p>
+
 # 🎮 Tic Tac Toe – React
 
 A Tic Tac Toe game built using React.
